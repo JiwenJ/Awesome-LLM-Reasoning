@@ -20,6 +20,9 @@ This is a collection of repos that reproduce & enhance reasoning  ability of LLM
 
 ---
 ### GitHub Repos
+-  [LIMO](https://github.com/GAIR-NLP/LIMO)
+-  [Satori](https://github.com/satori-reasoning/Satori)
+-  [HuatuoGPT-o1](https://github.com/FreedomIntelligence/HuatuoGPT-o1)
 -  [DeepScaler](https://github.com/agentica-project/deepscaler)
 -  [S1](https://github.com/simplescaling/s1)
 -  [SimpleRL](https://github.com/hkust-nlp/simpleRL-reason)
@@ -30,6 +33,7 @@ This is a collection of repos that reproduce & enhance reasoning  ability of LLM
 -  [TinyZero](https://github.com/Jiayi-Pan/TinyZero)
 -  [Open-O1](https://github.com/Open-Source-O1/Open-O1)
 -  [O1-Coder](https://github.com/ADaM-BJTU/O1-CODER)
+-  [OpenR](https://github.com/openreasoner/openr)
 -  [RAGEN](https://github.com/ZihanWang314/ragen)
 -  [STILL](https://github.com/RUCAIBox/Slow_Thinking_with_LLMs)
 -  [O1-Journey](https://github.com/GAIR-NLP/O1-Journey)
@@ -37,5 +41,17 @@ This is a collection of repos that reproduce & enhance reasoning  ability of LLM
 -  [rStar-Math](https://github.com/microsoft/rStar)
 -  [PRIME](https://github.com/PRIME-RL/PRIME)
 -  [Logic-RL](https://github.com/Unakar/Logic-RL)
+-  [X-RL](https://github.com/dhcode-cpp/X-R1)
 ---
 ### Model
+
+
+--- 
+
+
+
+### Reference
+- https://github.com/open-thought/system-2-research
+- https://github.com/Dereck0602/Awesome_Test_Time_LLMs
+- https://github.com/WangRongsheng/awesome-LLM-resourses
+- https://github.com/hijkzzz/Awesome-LLM-Strawberry
