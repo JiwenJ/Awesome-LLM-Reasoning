@@ -19,5 +19,6 @@ This is a collection of repos that reproduce & enhance reasoning  ability of LLM
 -  [O1-Journey](https://github.com/GAIR-NLP/O1-Journey)
 -  [Marco-O1](https://github.com/AIDC-AI/Marco-o1)
 -  [rStar-Math](https://github.com/microsoft/rStar)
+-  [PRIME](https://github.com/PRIME-RL/PRIME)
 ---
 ### Model
