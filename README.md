@@ -20,5 +20,6 @@ This is a collection of repos that reproduce & enhance reasoning  ability of LLM
 -  [Marco-O1](https://github.com/AIDC-AI/Marco-o1)
 -  [rStar-Math](https://github.com/microsoft/rStar)
 -  [PRIME](https://github.com/PRIME-RL/PRIME)
+-  [Logic-RL](https://github.com/Unakar/Logic-RL)
 ---
 ### Model
