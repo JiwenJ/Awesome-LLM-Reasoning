@@ -3,6 +3,7 @@ This is a collection of repos that reproduce & enhance reasoning  ability of LLM
 
 
 ---
+### GitHub Repos
 -  [DeepScaler](https://github.com/agentica-project/deepscaler)
 -  [S1](https://github.com/simplescaling/s1)
 -  [SimpleRL](https://github.com/hkust-nlp/simpleRL-reason)
@@ -15,3 +16,7 @@ This is a collection of repos that reproduce & enhance reasoning  ability of LLM
 -  [O1-Coder](https://github.com/ADaM-BJTU/O1-CODER)
 -  [RAGEN](https://github.com/ZihanWang314/ragen)
 -  [STILL](https://github.com/RUCAIBox/Slow_Thinking_with_LLMs)
+-  [O1-Journey](https://github.com/GAIR-NLP/O1-Journey)
+-  [Marco-O1](https://github.com/AIDC-AI/Marco-o1)
+---
+### Model
