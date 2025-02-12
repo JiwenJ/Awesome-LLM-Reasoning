@@ -18,5 +18,6 @@ This is a collection of repos that reproduce & enhance reasoning  ability of LLM
 -  [STILL](https://github.com/RUCAIBox/Slow_Thinking_with_LLMs)
 -  [O1-Journey](https://github.com/GAIR-NLP/O1-Journey)
 -  [Marco-O1](https://github.com/AIDC-AI/Marco-o1)
+-  [rStar-Math](https://github.com/microsoft/rStar)
 ---
 ### Model
